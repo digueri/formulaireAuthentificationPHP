@@ -1,0 +1,23 @@
+Soit le schéma suivant : 
+Adherent (id, nom, prenom, login, motPasse, profil)
+Tontine (id, nom, périodicité, dateDeb, dateFin, idResponsable#)
+Echeance (id, date, numero)
+Cotiser (idEcheance#, idAdherent#)
+Participer (idTontine#, idAdherent#, montant)
+
+Creer un projet permettant de :
+Enregistrer des adherents
+Gérer l'authentification des adhérents (Sessions et Cookies)
+Creer une Tontine (IdResponsable : utiliser une liste déroulante dynamique)
+
+Select
+Option
+
+Mettre un menu (utiliser bootstrap)
+
+
+
+Date butoir : 
+Mercredi 21/12/2022 à 23h
+Mail : ibou13@gmail.com
+Objet : Tontin1 ESTM
